@@ -85,10 +85,5 @@ models/
 *.pkl
 ```
 
-### License
-Choose a license (e.g., MIT or Apache-2.0). If unsure, keep the repo private until you decide.
-
-### Contributing
-Issues and PRs are welcome. Please avoid sharing real keys or personal data in examples.
 
 
